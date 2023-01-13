@@ -16,7 +16,7 @@ public class ClickTest1 : MonoBehaviour ,IPointerClickHandler
     {
         Debug.Log("Click");
     }
-
+        
     
 }
 
